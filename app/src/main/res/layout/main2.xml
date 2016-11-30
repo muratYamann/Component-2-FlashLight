@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff0000ff"
+    android:gravity="bottom|right"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="88dp"
+        android:layout_height="64dp"
+        android:background="@drawable/images"
+        android:text="1. Ekrana Git"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
